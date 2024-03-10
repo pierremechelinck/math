@@ -1,2 +1,2 @@
 # math
-All of my paths project
+in this repository, you can find my maths projects 🥇
